@@ -1,4 +1,4 @@
 
 int a= 20;
 int b=5;
-Console.log(a-b);
+Console.log(a*b);
